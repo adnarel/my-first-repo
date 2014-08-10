@@ -32,6 +32,13 @@ grav.    = gravitational<br>
 
 <br><br>
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+
+
 ####Column Variables Summary:
 +---------------+-------------------------------------+--------------------+---------------------------+------------------------------------------------------------------------------------+
 | Column Number | Variable Name                       | Variable Type      | Column Number in raw data |  Description                                                                       |
